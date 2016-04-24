@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    <string name="title_activity_test">test</string>
+    
+    <!-- Shared preference String start  -->
+    <string name="pref_ordering_key" translatable="false">movies_order</string>
+    <string name="pref_ordering_title" translatable="true">Order By</string>
+
+    <string name="pref_popular_label" translatable="true">Most Popular</string>
+    <string name="pref_rated_label" translatable="true">Highest Rated</string>
+
+    <string name="pref_popular_value" translatable="false">popular</string>
+    <string name="pref_rated_value" translatable="false">top_rated</string>
+
+    <string name="pref_page_key" translatable="false">page_number</string>
+    <string name="pref_page_dValue">1</string>
+    <string name="pref_page_title" translatable="true">Page</string>
+
+
+    <!-- Shared preference String end  -->
+</resources>
